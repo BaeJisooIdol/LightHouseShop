@@ -45,11 +45,7 @@ A comprehensive Java web application for an online coffee and beverage shop with
 
 ## Screenshots
 
-[Add screenshots of your application here]
-
-## Contributors
-
-- [Your Name]
+<img src="bakery_and_coffee.png" alt="Bakery and Coffee Shop Screenshot" width="800"/>
 
 ## License
 
